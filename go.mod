@@ -1,3 +1,5 @@
-module github.com/disintegration/imaging
+module github.com/gsx64/imaging
 
-require golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8
+go 1.26.4
+
+require golang.org/x/image v0.43.0
